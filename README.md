@@ -14,5 +14,6 @@ Olá, este repositório contém materiais que um iniciante em **Ciência de Dado
   - acha que o GPT-3 escreveu um artigo sozinho falando que os humanos não precisam temer a I.A.
   - não faz ideia do que é Estatística Descritiva;
   - acha que Machine Learning é apenas uma Estatística glorificada;<br>
+
 Se você deu check em pelo menos uma das opções anteriores, os materiais nesse repositório foram feitos para você
 - **INTERMEDIÁRIOS**:
