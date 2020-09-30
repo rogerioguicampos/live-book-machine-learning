@@ -8,11 +8,12 @@ Olá, este repositório contém materiais que um iniciante em **Ciência de Dado
   - veio de outras áreas;
   - não faz ideia do que é uma linguagem de programação;
   - Python para você é uma cobra;
-  - Pandas para você é um animal fofinho;
+  - pandas para você é um animal fofinho;
   - modelo para você é o Cauã Reymond;
   - quando fala de I.A. você acha que o Exterminador do Futuro está chegando;
-  - acha que o GPT-3 escreveu um artigo sozinho falando que os humanos não precisam temer a I.A.
+  - acha que o GPT-3 escreveu um artigo sozinho falando que os humanos não precisam temer a I.A.;
   - não faz ideia do que é Estatística Descritiva;
+  - acha que todo chat-bot é I.A.;
   - acha que Machine Learning é apenas uma Estatística glorificada;<br>
   
 - **INTERMEDIÁRIOS**:
