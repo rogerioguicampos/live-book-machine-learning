@@ -23,7 +23,7 @@ Olá, este repositório contém materiais que um iniciante em **Ciência de Dado
   - pandas para você é um ótimo *package* para manipular e analisar dados;
   - sabe intuitivamente como funciona um algoritmo de *Machine Learning* e como eles "aprendem";
   - sabe que I.A. é um ótimo nome para colocar na apresentação executiva;
-  - reconhece o poder do *GPT-3*, mas sabe que tem muita coisa ainda para fazer;
+  - reconhece o poder do *GPT-3*, mas sabe que ainda existem muitas coisas para fazer;
   - sabe o básico de Estatística Descritiva - média, mediana, gráficos etc;
   - sabe que a maioria dos chat-bots não tem um pingo de I.A.;
   - sabe que apesar da interseção entre Estatística e Machine Learning/Data Science, uma coisa é uma coisa outra coisa é outra coisa;
