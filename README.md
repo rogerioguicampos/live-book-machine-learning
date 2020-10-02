@@ -1,4 +1,4 @@
-# Quase Tudo o que você precisa para ir de um Cientista de Dados Jr. para um Cientista de Dados Pleno
+# Livro Vivo sobre Machine Learning e suas Principais Ferramentas
 
 Olá, este repositório contém materiais que um iniciante em **Ciência de Dados** precisa para trilhar seu caminho até um nível **Pleno**. Ele não passa de um livro vivo com ferramentas e teorias que são condições necessárias para que você se torne um **Cientista de Dados**.
 
