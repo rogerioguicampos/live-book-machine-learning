@@ -17,13 +17,13 @@ Olá, este repositório contém materiais que um iniciante em **Ciência de Dado
   - acha que Machine Learning é apenas uma Estatística glorificada;<br>
   
 - **INTERMEDIÁRIOS**:
-  - Python para você é uma linguagem de programação e está ligada a um grupo humorístics britânico;
+  - Python para você é uma linguagem de programação e está ligada a um grupo humorístico britânico;
   - já escreveu alguns códigos em Python puro e sabe importar os módulos e packages necessários;
   - mesmo vindo de outras áreas, já teve contato com Machine Learning;
-  - pandas para você é um ótimo package para manipular e analisar dados;
-  - sabe intuitivamente como funciona um algoritmo de Machine Learning e como eles "aprendem";
+  - pandas para você é um ótimo *package* para manipular e analisar dados;
+  - sabe intuitivamente como funciona um algoritmo de *Machine Learning* e como eles "aprendem";
   - sabe que I.A. é um ótimo nome para colocar na apresentação executiva;
-  - reconhece o poder do GPT-3, mas sabe que tem muita coisa ainda para fazer;
+  - reconhece o poder do *GPT-3*, mas sabe que tem muita coisa ainda para fazer;
   - sabe o básico de Estatística Descritiva - média, mediana, gráficos etc;
   - sabe que a maioria dos chat-bots não tem um pingo de I.A.;
   - sabe que apesar da interseção entre Estatística e Machine Learning/Data Science, uma coisa é uma coisa outra coisa é outra coisa;
