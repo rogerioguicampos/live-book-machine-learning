@@ -28,5 +28,5 @@ Olá, este repositório contém materiais que um iniciante em **Ciência de Dado
   - sabe que a maioria dos chat-bots não tem um pingo de I.A.;
   - sabe que apesar da interseção entre Estatística e Machine Learning/Data Science, uma coisa é uma coisa outra coisa é outra coisa;
   
- - **AVANÇADOS**:
+- **AVANÇADOS**:
   - infelizmente isso aqui ficará por último e vou inserindo coisas em doses homeopáticas, ou seja, provavelmente não funciona e você terá que ler fóruns obscuros.
