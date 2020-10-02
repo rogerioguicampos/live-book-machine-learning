@@ -3,7 +3,7 @@
 Olá, este repositório contém materiais que um iniciante em **Ciência de Dados** precisa para trilhar seu caminho até um nível **Pleno**. Ele não passa de um livro vivo com ferramentas e teorias que são condições necessárias para que você se torne um **Cientista de Dados**.
 
 ## Quem pode se beneficiar desse material?
-- **INICIANTES**: 
+- <font color='royalblue'>**INICIANTES**</font>: 
   - começou a trilhar seu caminho agora; 
   - veio de outras áreas;
   - não faz ideia do que é uma linguagem de programação;
