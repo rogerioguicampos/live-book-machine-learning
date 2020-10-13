@@ -1,5 +1,8 @@
 # Livro Vivo sobre Machine Learning e suas Principais Ferramentas
 
+Binder: entre no link para ver o notebook completo
+https://mybinder.org/v2/gh/rogerioguicampos/live-book-machine-learning/master
+
 Olá, este repositório contém materiais que um iniciante em **Ciência de Dados** precisa para trilhar seu caminho até um nível **Pleno**. Ele não passa de um livro vivo com ferramentas e teorias que são condições necessárias para que você se torne um **Cientista de Dados**.
 
 ## Quem pode se beneficiar desse material?
