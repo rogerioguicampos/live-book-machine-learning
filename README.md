@@ -33,3 +33,5 @@ Olá, este repositório contém materiais que um iniciante em **Ciência de Dado
   
 - **AVANÇADOS**:
   - infelizmente isso aqui ficará por último e vou inserindo coisas em doses homeopáticas, ou seja, provavelmente não funciona e você terá que ler fóruns obscuros.
+  
+## Sou iniciante, por onde começar?
