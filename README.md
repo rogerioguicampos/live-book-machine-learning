@@ -36,7 +36,7 @@ Olá, este repositório contém materiais que um iniciante em **Ciência de Dado
   
 ## Sou iniciante, por onde começar?
 *isso aqui está sendo construído, vou colocando coisas e melhorando com o tempo, TENHAM PACIÊNCIA PEQUENOS GAFANHOTOS*<br>
-Caso você se encaixe na descrição de **INICIANTES** acima, você deve:
+Caso você se encaixe na descrição de **INICIANTES** acima, você deve começar por:
 
 - 1) **00-Basic-Tools:** não interessa o que as pessoas falem para você, caso você não saiba um pouco da arte de "conversar" com o computador, você não se dará bem nesse mundo. Esqueça o papinho que Data Science não é ferramenta X, é o mesmo que dizer que um pedreiro não precisa saber manusear martelo ou qualquer outra ferramenta. E, sim, caso queira entrar nesse mundo, você se tornará um pouco mais "nerd dos computador", então esteja avisado.
 
