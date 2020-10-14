@@ -37,13 +37,7 @@ Olá, este repositório contém materiais que um iniciante em **Ciência de Dado
 ## Sou iniciante, por onde começar?
 Caso você se encaixe na descrição de **INICIANTES** acima, você deve:
 
-- 1) 00-Basic-Tools: não interessa o que as pessoas falem para você, caso você não saiba um pouco da arte de "conversar" com o
-computador, você não se dará bem nesse mundo. Esqueça o papinho que Data Science não é ferramenta X, é o mesmo que dizer que um
-pedreiro não precisa saber manusear martelo ou qualquer outra ferramenta. E, sim, caso queira entrar nesse mundo, você se tornará
-um pouco mais "nerd dos computador", então esteja avisado.
+- 1) **00-Basic-Tools:** não interessa o que as pessoas falem para você, caso você não saiba um pouco da arte de "conversar" com o computador, você não se dará bem nesse mundo. Esqueça o papinho que Data Science não é ferramenta X, é o mesmo que dizer que um pedreiro não precisa saber manusear martelo ou qualquer outra ferramenta. E, sim, caso queira entrar nesse mundo, você se tornará um pouco mais "nerd dos computador", então esteja avisado.
 
-- 2) 01-Basic-Theory: as coisas ficam um pouco mais complicadas aqui, há um ponto ótimo entre coisas mínimas e profundidade que nós
-precisamos ajustar. Neste exato momento, caso você não saiba nada de Estatística Descritiva e Machine Learning, eu indicaria
-começar em 0-Basic-Statistics e depois 03-Basic-ML-Theory. Não precisa se aprofundar e nem ler tudo, mas existe sim um
-tanto que você deveria saber para ter um caminho mais produtivo, o difícil é saber esse tanto. Vou deixar isso aqui em aberto
+- 2) **01-Basic-Theory:** as coisas ficam um pouco mais complicadas aqui, há um ponto ótimo entre coisas mínimas e profundidade que nósprecisamos ajustar. Neste exato momento, caso você não saiba nada de Estatística Descritiva e Machine Learning, eu indicaria começar em 0-Basic-Statistics e depois 03-Basic-ML-Theory. Não precisa se aprofundar e nem ler tudo, mas existe sim um tanto que você deveria saber para ter um caminho mais produtivo, o difícil é saber esse tanto. Vou deixar isso aqui em aberto
 e ajustando com o tempo.
